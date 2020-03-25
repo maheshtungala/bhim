@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mySuite" duration-ms="49725" started-at="2020-03-22T11:31:07 IST" finished-at="2020-03-22T11:31:57 IST">
+    <groups>
+    </groups>
+    <test name="myTest" duration-ms="49725" started-at="2020-03-22T11:31:07 IST" finished-at="2020-03-22T11:31:57 IST">
+      <class name="myPack.Himaja">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Himaja@1bce4f0a]" name="addEmp" duration-ms="37075" started-at="2020-03-22T11:31:07 IST" finished-at="2020-03-22T11:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Himaja@1bce4f0a]" name="deleteEmp" duration-ms="0" started-at="2020-03-22T11:31:44 IST" finished-at="2020-03-22T11:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Himaja@1bce4f0a]" name="verifyLogin" duration-ms="12552" started-at="2020-03-22T11:31:44 IST" finished-at="2020-03-22T11:31:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Himaja@1bce4f0a]" name="editEmp" duration-ms="0" started-at="2020-03-22T11:31:44 IST" finished-at="2020-03-22T11:31:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+      </class> <!-- myPack.Himaja -->
+    </test> <!-- myTest -->
+  </suite> <!-- mySuite -->
+</testng-results>
